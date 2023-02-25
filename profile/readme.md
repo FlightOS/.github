@@ -17,7 +17,7 @@ FlightOS is custom version on Arch Linux with many custom tools built for it. We
   
 - Unicorn
   - Description: All-In-One Universal Package Manager
-  - Status: Not Passing | In Concept
+  - Status: Not Passing | In Development
   
 - PaneWM
   - Description: Simple And Efficent Window Manager
