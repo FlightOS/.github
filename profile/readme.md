@@ -33,4 +33,4 @@ FlightOS is custom version on Arch Linux with many custom tools built for it. We
 - [Majikun](https://github.com/madjikdotpng) - Icon and Other Miscellaneous Designer
 
 
-#### Sneej - Cool
+###### Sneej - Cool
