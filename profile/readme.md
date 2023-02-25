@@ -14,18 +14,32 @@ FlightOS is custom version on Arch Linux with many custom tools built for it. We
 - LucidDE
   - Description: Sexy ASF Desktop Environment
   - Status: Not Passing | In Concept
+  - Version: N/A
+  - Repository: N/A
   
 - Unicorn
   - Description: All-In-One Universal Package Manager
   - Status: Not Passing | In Development
+  - Version: N/A
+  - Repository: N/A
   
+- UnicornDB
+  - Description: Deployable Unicorn Server 
+  - Status: Not Passing | In Development
+  - Version: N/A
+  - Repository: N/A
+
 - PaneWM
   - Description: Simple And Efficent Window Manager
   - Status: Not Passing | In Concept
+  - Version: N/A
+  - Repository: N/A
   
 - Thunderbolt
   - Description: Toolset Of A Bunch Of CLI And GUI Programs
   - Status: Not Passing | In Concept
+  - Version: N/A
+  - Repository: N/A
 
 ## Developers
 - [Scaratek](https://github.com/scaratek) - Owner and Lead Developer
