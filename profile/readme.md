@@ -28,6 +28,6 @@ FlightOS is custom version on Arch Linux with many custom tools built for it. We
   - Status: Not Passing | In Concept
 
 ## Developers
-- Scaratek - Owner and Lead Developer
-- Nitelite - UI/UX Designer
-- Majikun - Icon and Other Miscellaneous Designer
+- [Scaratek](https://github.com/scaratek) - Owner and Lead Developer
+- [Nitelite](https://github.com/lappxd) - UI/UX Designer
+- [Majikun](https://github.com/madjikdotpng) - Icon and Other Miscellaneous Designer
