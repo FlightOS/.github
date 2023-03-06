@@ -2,17 +2,16 @@
 Trans Gender Arch With A Sexy UI
 
 ## About FlightOS
-FlightOS is custom version on Arch Linux with many custom tools built for it. We have our own Package Manager, Desktop Environment, Window Manager, etc, etc.. It also has a **strong** focus on a Trans Gender theme.
+FlightOS is custom version on Arch Linux with many custom tools built for it. We have our own Package Manager, Desktop Environment, etc, etc.. It also has a **strong** focus on a Trans Gender theme.
 
 ## Features
-- Sexy Desktop Environment - LucidDE
+- Customized Plasma 5 - LucidDE
 - Custom Package Manager - Unicorn
-- Custom Window Manager - PaneWM
 - Custom CLI and GUI Toolset - Thunderbolt
 
 ## Projects
 - LucidDE
-  - Description: Sexy ASF Desktop Environment
+  - Description: Sexy ASF Plasma 5 Fork
   - Status: Not Passing | In Concept
   - Version: N/A
   - Repository: N/A
@@ -28,12 +27,6 @@ FlightOS is custom version on Arch Linux with many custom tools built for it. We
   - Status: Not Passing | In Development
   - Version: N/A
   - Repository: N/A
-
-- PaneWM
-  - Description: Simple And Efficent Window Manager
-  - Status: Not Passing | In Concept
-  - Version: N/A
-  - Repository: N/A
   
 - Thunderbolt
   - Description: Toolset Of A Bunch Of CLI And GUI Programs
@@ -43,8 +36,5 @@ FlightOS is custom version on Arch Linux with many custom tools built for it. We
 
 ## Developers
 - [Scaratek](https://github.com/scaratek) - Owner and Lead Developer
-- [Nitelite](https://github.com/lappyxd) - UI/UX Designer
-- [Majikun](https://github.com/madjikdotpng) - Icon and Other Miscellaneous Designer
-
-
-###### Sneej - Cool
+- [Nitelite](https://github.com/lappyxd) - Configured Arch and Plasma
+- [Majikun](https://github.com/madjikdotpng) - UI/UX Designer
