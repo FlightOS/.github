@@ -42,6 +42,8 @@ FlightOS is custom version on Arch Linux with many custom tools built for it. We
   - Repository: N/A
 
 ## Developers
-- [Scaratek](https://github.com/scaratek) - Owner and Lead Developer
-- [Nitelite](https://github.com/lappyxd) - Configured Arch and Plasma
+- [Scaratek](https://github.com/scaratek) - Developer
+- [Nitelite](https://github.com/lappyxd) - Developer
+- [Sharp Jack](https://github.com/Sharpjackv) - Developer
+- [Rift](https://github.com/slushzies) - Developer
 - [Majikun](https://github.com/madjikdotpng) - UI/UX Designer
