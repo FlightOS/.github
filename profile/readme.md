@@ -8,10 +8,11 @@ FlightOS is custom version on Arch Linux with many custom tools built for it. We
 - Customized Plasma 5 - LucidDE
 - Custom Package Manager - Unicorn
 - Custom CLI and GUI Toolset - Thunderbolt
+- Custom Window Manager - PaneWM
 
 ## Projects
 - LucidDE
-  - Description: Sexy ASF Plasma 5 Fork
+  - Description: Sexy ASF Plasma 5 Config
   - Status: Not Passing | In Concept
   - Version: N/A
   - Repository: N/A
@@ -30,6 +31,12 @@ FlightOS is custom version on Arch Linux with many custom tools built for it. We
   
 - Thunderbolt
   - Description: Toolset Of A Bunch Of CLI And GUI Programs
+  - Status: Not Passing | In Concept
+  - Version: N/A
+  - Repository: N/A
+  
+- PaneWM
+  - Description: Custom Window Manager
   - Status: Not Passing | In Concept
   - Version: N/A
   - Repository: N/A
