@@ -1,6 +1,6 @@
 # FlightOS
 - Trans Gender Arch With A Sexy UI
-- Sponsored By Titanium Network!
+- Sponsored By Titanium Network! (/j Aub dont kill me D:)
 
 ## About FlightOS
 FlightOS is custom version on Arch Linux with many custom tools built for it. We have our own Package Manager, Desktop Environment, etc, etc.. It also has a **strong** focus on a Trans Gender theme.
