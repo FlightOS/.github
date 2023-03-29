@@ -1,14 +1,15 @@
 # FlightOS
-Trans Gender Arch With A Sexy UI
+A Nix based distro that aims to keep it simple.
 
 ## About FlightOS
-FlightOS is custom version on Arch Linux with many custom tools built for it. We have our own Package Manager, Desktop Environment, etc, etc.. It also has a **strong** focus on a Trans Gender theme.
+FlightOS is Nix based distro that aims to keep it simple
 
 ## Features
 - Customized Plasma 5 - LucidDE
 - Custom Package Manager - Unicorn
 - Custom CLI and GUI Toolset - Thunderbolt
 - Custom Window Manager - PaneWM
+- GUI configuration.nix tool - Nixer
 
 ## Projects
 - LucidDE
