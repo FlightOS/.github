@@ -2,7 +2,7 @@
 A Nix based distro that aims to keep it simple.
 
 ## About FlightOS
-FlightOS is Nix based distro that aims to keep it simple
+FlightOS is Nix based distro that aims to keep it simple, making it easier for users of arch and other distrobutions to make the switch to Nix. with easy to use GUI tools
 
 ## Features
 - Customized Plasma 5 - LucidDE
@@ -18,18 +18,6 @@ FlightOS is Nix based distro that aims to keep it simple
   - Version: N/A
   - Repository: N/A
   
-- Unicorn
-  - Description: All-In-One Universal Package Manager
-  - Status: Not Passing | In Development
-  - Version: N/A
-  - Repository: N/A
-  
-- UnicornDB
-  - Description: Deployable Unicorn Server 
-  - Status: Not Passing | In Development
-  - Version: N/A
-  - Repository: N/A
-  
 - Thunderbolt
   - Description: Toolset Of A Bunch Of CLI And GUI Programs
   - Status: Not Passing | 
@@ -37,8 +25,14 @@ FlightOS is Nix based distro that aims to keep it simple
   - Version: N/A
   - Repository: N/A
   
+- Nixer
+  - Description: A GUI tool for modifying configuration.nix
+  - Status: In Developement by Astrid
+  - Version: N/A
+  - Repository: N/A
+  
 - PaneWM
-  - Description: Custom Window Manager
+  - Description: 
   - Status: Not Passing | In Concept
   - Version: N/A
   - Repository: N/A
@@ -49,6 +43,7 @@ FlightOS is Nix based distro that aims to keep it simple
 - [Sharp Jack](https://github.com/Sharpjackv) - Developer & Hoster
 - [Rift](https://github.com/slushzies) - Developer
 - [Majikun](https://github.com/madjikdotpng) - UI/UX Designer
+- [A Weeb Programmer/Astrid] (https://github.com/a-weeb-programmer) - Developer and Nix Goddess
 
 ## Beta Testers
 - Aub
