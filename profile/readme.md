@@ -43,7 +43,7 @@ FlightOS is Nix based distro that aims to keep it simple, making it easier for u
 - [Sharp Jack](https://github.com/Sharpjackv) - Developer & Hoster
 - [Rift](https://github.com/slushzies) - Developer
 - [Majikun](https://github.com/madjikdotpng) - UI/UX Designer
-- [A Weeb Programmer/Astrid] (https://github.com/a-weeb-programmer) - Developer and Nix Goddess
+- [A Weeb Programmer/Astrid](https://github.com/a-weeb-programmer) - Developer and Nix Goddess
 
 ## Beta Testers
 - Aub
