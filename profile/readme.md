@@ -1,3 +1,5 @@
+# FLIGHT OS IS NO LONGER MAINTAINED OR BEING WORKED ON
+
 # FlightOS
 A Nix based distro that aims to keep it simple.
 
